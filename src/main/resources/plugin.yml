@@ -1,0 +1,11 @@
+name: OfflineCommands
+version: ${project.version}
+main: sk.drawethree.offlinecommands.OfflineCommands
+api-version: 1.13
+prefix: OfflineCommands
+load: STARTUP
+authors: [Drawethree]
+description: This plugin simply runs commands when player comes back online
+commands:
+  offlinecommands:
+    aliases: [oc]

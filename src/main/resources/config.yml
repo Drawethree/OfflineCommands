@@ -1,0 +1,5 @@
+messages:
+  prefix: "[OfflineCommands]"
+  no_perm: "&cYou don't have permission to do that!"
+  cmd_added: "&aAdded command &e%cmd% &afor player &e%player%&a!"
+data: {}
